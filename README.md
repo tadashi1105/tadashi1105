@@ -228,6 +228,8 @@ Let’s connect and collaborate!
 This space is reserved for future awesomeness. Stay tuned!
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World on DEV](https://dev.to/tadashi1105/hello-world-4gf3)
+- [Hello World on Medium](https://medium.com/@tadashi1105/hello-world-680a085ba779?source=rss-a65786ddcbb2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">

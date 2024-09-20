@@ -132,10 +132,7 @@ Let’s connect and collaborate!
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-f8dc75?style=flat&logo=apachetomcat&logoColor=black)
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-f80000?style=flat&logo=oracle&logoColor=black)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-
-<!-- ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white) -->
-
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)<!-- ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white) -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 <!-- ![Redis](https://img.shields.io/badge/Redis-ff4438?&style=flat&logo=redis&logoColor=white) -->
@@ -152,11 +149,11 @@ Let’s connect and collaborate!
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183a61?style=flat&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
-<!-- ### Testing
-
-![jest](https://img.shields.io/badge/jest-c21325?style=flat&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat&logo=vitest&logoColor=white) -->
+<!-- ### Testing -->
+<!---->
+<!-- ![jest](https://img.shields.io/badge/jest-c21325?style=flat&logo=jest&logoColor=white) -->
+<!-- ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white) -->
+<!-- ![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat&logo=vitest&logoColor=white) -->
 
 ### Editors & IDEs
 
@@ -283,7 +280,8 @@ This space is reserved for future awesomeness. Stay tuned!
   <!--     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/white/white" alt="Gmail" width="40" height="40" /> -->
   <!--     <img src="https://cdn.simpleicons.org/gmail/1a1b27/white" alt="Gmail" width="40" height="40" /> -->
   <!--   </picture> -->
-  <!-- </a><img src="assets/misc/transparent.png" alt="Transparent spacer" width="14" height="1" /> -->
+  <!-- </a> -->
+  <!-- <img src="assets/misc/transparent.png" alt="Transparent spacer" width="14" height="1" /> -->
   <a href="https://www.facebook.com/tadashi1105">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/facebook/1a1b27/1a1b27" alt="Facebook" width="40" height="40" />

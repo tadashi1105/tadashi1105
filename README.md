@@ -3,7 +3,7 @@
   <sup>
     <a href="#----------about-me----about--">About</a>&nbsp;&nbsp;
     <a href="#----------featured-projects----projects--">Projects</a>&nbsp;&nbsp;
-    <a href="#----------skills--technologies----skills--">Skills</a>&nbsp;&nbsp;
+    <a href="#----------skills--tech----skills--">Skills</a>&nbsp;&nbsp;
     <a href="#----------latest-blog-posts----blog--">Blog</a>&nbsp;&nbsp;
     <a href="#----------connect-with-me----contact--">Contact</a>
     <!-- Resume -->

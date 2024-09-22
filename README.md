@@ -164,7 +164,7 @@ Let’s connect and collaborate!
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147efb?style=flat&logo=xcode&logoColor=white)
 
-### Other Tools and Technologies
+### Other Tools & Technologies
 
 ![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=flat&logo=eslint&logoColor=white)
 ![SASS/SCSS](https://img.shields.io/badge/SASS%2FSCSS-cc6699?style=flat&logo=sass&logoColor=white)

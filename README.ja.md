@@ -11,19 +11,19 @@
 </h5>
 
 <p align="center">
-  English
+  <a href="README.md">English</a>
   |
-  <a href="README.ja.md">日本語</a>
+  日本語
 </p>
 
 <!-- Header -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />&nbsp;Hi&nbsp;there, I'm&nbsp;Tadashi
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28" height="28" />初めまして、<ruby>唯<rp>(</rp><rt>タダシ</rt><rp>)</rp></ruby>です。
 </h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Lead%20Software%20Engineer&fontSize=60&rotate=-6&fontAlignY=36&strokeWidth=0&desc=Full-Stack%20Developer%20|%20Team%20Lead&fontAlign=50&descSize=30&descAlignY=54&textBg=false&descAlign=63" alt="Lead Software Engineer | Full-Stack Developer | Team Lead" width="1012" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadashi1105&theme=tokyonight&background=00000000&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadashi1105&theme=tokyonight&background=00000000&hide_border=true&locale=ja" alt="Streak stats" />
 </div>
 
 <!-- About -->
@@ -35,16 +35,16 @@
   </ruby>
 </h2>
 
-Hi, I’m Tadashi Matsuura. With 7 years of experience in Japan, I specialize in full-stack development using JavaScript, PHP, HTML, CSS, and Bootstrap, as well as database management with Oracle Database and Db2. I've worked on projects for major clients, including developing a global project management system for an automotive manufacturer and a system to manage equipment and construction for a power company.
+初めまして、松浦 唯と申します。日本で7年間の経験を積み、JavaScript、PHP、HTML、CSS、Bootstrapを使ったフルスタック開発、Oracle DatabaseやDb2を使ったデータベース管理を得意としています。自動車部品メーカーのグローバルプロジェクト管理システムや、電力会社の設備・工事管理システムの開発など、大手クライアントのプロジェクトに携わってきました。
 
-I also led the development of an in-house attendance management system, collaborating closely with clients to add new features and resolve technical issues. My skills include modern technologies like TypeScript, React, Vue.js, and Python, allowing me to efficiently handle both front-end and back-end tasks.
+また、社内の勤怠管理システムの開発を主導し、クライアントと密接に協力して新機能の追加や技術的な問題の解決に取り組みました。私のスキルには、TypeScript、React、Vue.js、Pythonなどの最新技術が含まれており、フロントエンドとバックエンドの両方のタスクを効率的に処理することができます。
 
-As a team lead, I'm passionate about driving innovation, leading teams, and delivering high-quality software solutions.
+チームリーダーとして、革新的なアイデアを推進し、チームをまとめ上げ、高品質なソフトウェアソリューションを提供することに情熱を注いでおります。
 
-Let’s connect and collaborate!
+ぜひ一緒に素晴らしいプロジェクトを創り上げていきましょう。よろしくお願いいたします。
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=24&section=header" alt="Delimiter line" width="1012" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=24&section=header" alt="区切り線" width="1012" />
 </p>
 
 <div align="center">
@@ -58,7 +58,7 @@ Let’s connect and collaborate!
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=24&section=header" alt="Delimiter line" width="1012" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=24&section=header" alt="区切り線" width="1012" />
 </p>
 
 <!-- Projects -->
@@ -71,10 +71,10 @@ Let’s connect and collaborate!
 </h2>
 
 <div align="center">
-  <a href="https://github.com/tadashi1105/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=dotfiles&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="dotfiles" /></a>
-  <a href="https://github.com/tadashi1105/mill-dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=mill-dev&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="mill-dev" /></a>
-  <a href="https://github.com/tadashi1105/tic-tac-toe-with-react-typescript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=tic-tac-toe-with-react-typescript&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="tic-tac-toe-with-react-typescript" /></a>
-  <a href="https://github.com/tadashi1105/generator-twebapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=generator-twebapp&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="generator-twebapp" /></a>
+  <a href="https://github.com/tadashi1105/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=dotfiles&theme=tokyonight&bg_color=00000000&description_lines_count=3&locale=ja" alt="dotfiles" /></a>
+  <a href="https://github.com/tadashi1105/mill-dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=mill-dev&theme=tokyonight&bg_color=00000000&description_lines_count=3&locale=ja" alt="mill-dev" /></a>
+  <a href="https://github.com/tadashi1105/tic-tac-toe-with-react-typescript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=tic-tac-toe-with-react-typescript&theme=tokyonight&bg_color=00000000&description_lines_count=3&locale=ja" alt="tic-tac-toe-with-react-typescript" /></a>
+  <a href="https://github.com/tadashi1105/generator-twebapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=generator-twebapp&theme=tokyonight&bg_color=00000000&description_lines_count=3&locale=ja" alt="generator-twebapp" /></a>
 </div>
 
 <!-- Skills -->
@@ -86,7 +86,7 @@ Let’s connect and collaborate!
   </ruby>
 </h2>
 
-### Languages
+### 言語
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
@@ -98,7 +98,7 @@ Let’s connect and collaborate!
 ![Ruby](https://img.shields.io/badge/Ruby-cc342d?style=flat&logo=ruby&logoColor=white)<!-- ![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=e57324) -->
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-### Front-end Technologies
+### フロントエンド技術
 
 ![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat&logo=angular&logoColor=white)<!-- ![Astro](https://img.shields.io/badge/Astro-0c1222?style=flat&logo=astro&logoColor=white) -->
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)<!-- ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white) --><!-- ![Hono](https://img.shields.io/badge/Hono-e36002?style=flat&logo=hono&logoColor=white) -->
@@ -108,7 +108,7 @@ Let’s connect and collaborate!
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat&logo=vuedotjs&logoColor=4fc08d)
 
-### Back-end Technologies
+### バックエンド技術
 
 <!-- ![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=green) -->
 <!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) -->
@@ -119,7 +119,7 @@ Let’s connect and collaborate!
 ![WordPress](https://img.shields.io/badge/WordPress-21759b?style=flat&logo=wordpress&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6db33f?style=flat&logo=spring&logoColor=white)
 
-### Cloud Platforms
+### クラウド
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232f3e?style=flat&logo=amazonwebservices&logoColor=white)
 
@@ -130,7 +130,7 @@ Let’s connect and collaborate!
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-dd2c00?style=flat&logo=firebase) -->
 <!-- ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3fcf8e) -->
 
-### Servers & Databases
+### サーバー & データベース
 
 <!-- ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white) -->
 
@@ -144,7 +144,7 @@ Let’s connect and collaborate!
 <!-- ![Redis](https://img.shields.io/badge/Redis-ff4438?&style=flat&logo=redis&logoColor=white) -->
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white) -->
 
-### DevOps & CI/CD Tools
+### DevOps & CI/CD ツール
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat&logo=githubactions&logoColor=white)<!-- ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white) --><!-- ![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=flat&logo=jenkins&logoColor=white) --><!-- ![Travis CI](https://img.shields.io/badge/Travis_CI-3eaaaf?style=flat&logo=travisci&logoColor=white) -->
 ![Git](https://img.shields.io/badge/Git-e44c30?style=flat&logo=git&logoColor=white)
@@ -161,7 +161,7 @@ Let’s connect and collaborate!
 <!-- ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white) -->
 <!-- ![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat&logo=vitest&logoColor=white) -->
 
-### Editors & IDEs
+### エディタ & IDEs
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2c2255?style=flat&logo=eclipseide&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57a143?&style=flat&logo=neovim&logoColor=white)
@@ -170,7 +170,7 @@ Let’s connect and collaborate!
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147efb?style=flat&logo=xcode&logoColor=white)
 
-### Other Tools & Technologies
+### その他 ツール & 技術
 
 ![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=flat&logo=eslint&logoColor=white)
 ![SASS/SCSS](https://img.shields.io/badge/SASS%2FSCSS-cc6699?style=flat&logo=sass&logoColor=white)
@@ -200,10 +200,10 @@ Let’s connect and collaborate!
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tadashi1105&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Tadashi's GitHub stats (GitHub Stats Card)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tadashi1105&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&locale=ja" alt="Tadashi's GitHub stats (GitHub Stats Card)" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadashi1105&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Tadashi's GitHub stats (Top Languages Card)" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadashi1105&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=ja" alt="Tadashi's GitHub stats (Top Languages Card)" />
     </td>
   </tr>
 </table>
@@ -228,7 +228,7 @@ Let’s connect and collaborate!
   </ruby>
 </h2>
 
-This space is reserved for future awesomeness. Stay tuned!
+この場所は、未来の素晴らしい記事のために取っておきます。どうぞお楽しみに！
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello World on DEV](https://dev.to/tadashi1105/hello-world-4gf3)
@@ -236,7 +236,7 @@ This space is reserved for future awesomeness. Stay tuned!
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <sup>View More Articles</sup><br />
+  <sup>記事をもっと見る</sup><br />
   <a href="https://dev.to/tadashi1105" aria-label="View More Articles on dev.to">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dev.to-0a0a0a?style=flat&logo=devdotto&logoColor=white" alt="dev.to" height="24" />
@@ -325,11 +325,11 @@ This space is reserved for future awesomeness. Stay tuned!
   </a>
 </p>
 
-Thanks for stopping by! If you have any questions or just want to chat about tech or anything interesting lately, feel free to reach out. Let’s create something amazing together! 🪄
+お立ち寄りいただき、ありがとうございます！技術のことや最近の面白い話題について、ご質問やお話したいことがありましたら、お気軽にご連絡ください。一緒に素晴らしいものを作りましょう！🪄
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&section=header&customColorList=24" alt="Delimiter line" width="1012" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&section=header&customColorList=24" alt="区切り線" width="1012" />
 </p>
 
 <picture>
@@ -339,11 +339,11 @@ Thanks for stopping by! If you have any questions or just want to chat about tec
   <img src="https://komarev.com/ghpvc/?username=tadashi1105&label=Profile%20views&color=7aa2f7&style=flat&abbreviated=true" alt="Profile views" height="24" align="right" />
 </picture>
 
-<details><summary>Acknowledgements</summary>
+<details><summary>謝辞</summary>
 
 <br />
 
-This profile readme uses the following awesome resources:
+このプロフィールには、以下の素晴らしいリソースを使用しています。
 
 - Animated Fluent Emojis by [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis)
 - Badges by [badges/shields](https://github.com/badges/shields)
@@ -355,7 +355,7 @@ This profile readme uses the following awesome resources:
 - Header, Footer, and Divider Images by [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - Icons by [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 
-Thanks to all the creators and maintainers of these tools for enhancing GitHub profiles!
+GitHubのプロフィールを充実させるこれらのツールを作成し、維持してくださっている全ての方々に感謝いたします！
 
 </details>
 

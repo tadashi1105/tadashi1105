@@ -16,4 +16,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          readme_path: "README.md,README.ja.md"
           feed_list: "https://dev.to/feed/tadashi1105,https://medium.com/feed/@tadashi1105"

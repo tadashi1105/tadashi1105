@@ -200,7 +200,7 @@ Let’s connect and collaborate!
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tadashi1105&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Tadashi's GitHub stats (GitHub Stats Card)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tadashi1105&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&custom_title=GitHub%20Stats" alt="Tadashi's GitHub stats (GitHub Stats Card)" />
     </td>
     <td align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadashi1105&theme=tokyonight&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Tadashi's GitHub stats (Top Languages Card)" />

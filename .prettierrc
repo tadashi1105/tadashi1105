@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "files": [".markdownlint-cli2.jsonc"],
+      "options": {
+        "trailingComma": "none"
+      }
+    }
+  ]
+}

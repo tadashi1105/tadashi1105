@@ -10,11 +10,11 @@
   </sup>
 </h5>
 
-<p align="center">
-  <a href="README.md">English</a>
-  |
-  日本語
-</p>
+<h5 align="center">
+  <a href="README.md">:us: English</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  :jp: 日本語
+</h5>
 
 <!-- Header -->
 <h1 align="center">

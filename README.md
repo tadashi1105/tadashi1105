@@ -72,6 +72,8 @@ Let’s connect and collaborate!
 
 <div align="center">
   <a href="https://github.com/tadashi1105/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=dotfiles&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="dotfiles repository information card" /></a>
+  <a href="https://github.com/tadashi1105/mill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=mill&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="mill repository information card" /></a>
+  <a href="https://github.com/tadashi1105/mill-hacks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=mill-hacks&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="mill-hacks repository information card" /></a>
   <a href="https://github.com/tadashi1105/mill-dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=mill-dev&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="mill-dev repository information card" /></a>
   <a href="https://github.com/tadashi1105/tic-tac-toe-with-react-typescript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=tic-tac-toe-with-react-typescript&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="tic-tac-toe game built with React and TypeScript repository information card" /></a>
   <a href="https://github.com/tadashi1105/generator-twebapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tadashi1105&repo=generator-twebapp&theme=tokyonight&bg_color=00000000&description_lines_count=3" alt="generator-twebapp repository information card" /></a>

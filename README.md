@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Lead%20Software%20Engineer&fontSize=60&rotate=-6&fontAlignY=36&strokeWidth=0&desc=Full-Stack%20Developer%20|%20Team%20Lead&fontAlign=50&descSize=30&descAlignY=54&textBg=false&descAlign=63" alt="Lead Software Engineer | Full-Stack Developer | Team Lead" width="1012" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadashi1105&theme=tokyonight&background=00000000&hide_border=true" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tadashi1105&theme=tokyonight&background=00000000&hide_border=true" alt="Streak stats" />
 </div>
 
 <!-- About -->

@@ -327,7 +327,7 @@
   </a>
 </p>
 
-お立ち寄りいただき、ありがとうございます！技術のことや最近の面白い話題について、ご質問やお話したいことがありましたら、お気軽にご連絡ください。一緒に素晴らしいものを作りましょう！🪄
+お立ち寄りいただき、ありがとうございます！技術のことや最近の面白い話題について、ご質問やお話したいことがありましたら、お気軽にご連絡ください。一緒に素晴らしいものを作りましょう！
 
 <!-- Footer -->
 <p align="center">
@@ -364,18 +364,3 @@ GitHubのプロフィールを充実させるこれらのツールを作成し�
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&section=footer" alt="Footer" width="1012" />
 </div>
-
-<!--
-**tadashi1105/tadashi1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

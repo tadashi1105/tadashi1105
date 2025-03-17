@@ -327,7 +327,7 @@ This space is reserved for future awesomeness. Stay tuned!
   </a>
 </p>
 
-Thanks for stopping by! If you have any questions or just want to chat about tech or anything interesting lately, feel free to reach out. Let’s create something amazing together! 🪄
+Thanks for stopping by! If you have any questions or just want to chat about tech or anything interesting lately, feel free to reach out. Let’s create something amazing together!
 
 <!-- Footer -->
 <p align="center">
@@ -364,18 +364,3 @@ Thanks to all the creators and maintainers of these tools for enhancing GitHub p
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&section=footer" alt="Footer" width="1012" />
 </div>
-
-<!--
-**tadashi1105/tadashi1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
